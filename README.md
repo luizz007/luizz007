@@ -4,4 +4,4 @@
 - 👀 Eu estou interessado em aprender a progamar novas linguagens.
 - 🌱 Eu estou aprendendo a progamar recentemente a linguagem de javaScript e Screath.
 
-![]https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
