@@ -1,5 +1,7 @@
 # Sobre mim
 - 👋 olá meu nome é @luizz007
-- 👍 Meu email de contato é gamerlfv@gmail.com.br.
+- 👍 Meu email de contato é [email](gamerlfv@gmail.com.br)
 - 👀 Eu estou interessado em aprender a progamar novas linguagens.
 - 🌱 Eu estou aprendendo a progamar recentemente a linguagem de javaScript e Screath.
+
+![]https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
